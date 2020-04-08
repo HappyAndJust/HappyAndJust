@@ -1,0 +1,53 @@
+name: HappyAndJust_Plugin
+version: 1.0
+main: test.Main
+
+commands:
+  pvp:
+  
+  mute:
+  
+  unmute:
+  
+  axe:
+  
+  item:
+  
+  bstart:
+  
+  bstop:
+  
+  health:
+  
+  slime:
+  
+  stick:
+  
+  block:
+  
+  stick2:
+  
+  stick3:
+  
+  stick4:
+  
+  stick5:
+  
+  stick6:
+  
+  stick7:
+  
+  stick8:
+  
+  stick9:
+  
+  heal:
+  
+  skeleton:
+  
+  food:
+  
+  exp:
+  
+  
+  
